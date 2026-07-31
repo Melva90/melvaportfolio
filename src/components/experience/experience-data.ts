@@ -1,0 +1,46 @@
+export const experiences = [
+  {
+    company: "SynapseSpark Software",
+    role: "Fullstack Developer",
+    duration: "Aug 2024 — Oct 2024",
+    location: "Chennai, India",
+    employment: "Internship",
+    workMode: "On-site",
+    country: "India",
+    technologies: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+    ],
+    achievements: [
+      "Built responsive websites.",
+      "Converted Figma designs.",
+    ],
+  },
+  {
+    company: "NC Global Media FZCO",
+    role: "UI Developer",
+    duration: "Nov 2024 — Mar 2026",
+    location: "Chennai, India",
+    employment: "Full-time",
+    workMode: "On-site",
+    country: "India",
+    technologies: [
+      "React.js",
+      "Next.js",
+      "TypeScript",
+      "Rest API",
+      "Tailwind CSS",
+      "Shadcn UI",
+      "Reusable UI Components",
+      "Figma",
+    ],
+    achievements: [
+      "Built production-ready web3 Blogging applications.",
+      "Created reusable UI components.",
+      "Integrated REST APIs.",
+      "Migrated Millions of data from old to new application.",
+    ],
+  },
+];
