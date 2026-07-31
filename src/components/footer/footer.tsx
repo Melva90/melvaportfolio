@@ -41,7 +41,7 @@ export default function Footer() {
 
         <div className="flex gap-4">
           <a
-            href="https://linkedin.com/in/YOURPROFILE"
+            href="https://linkedin.com/in/melvaarulsamy"
             target="_blank"
             className="rounded-full border border-white/10 p-3 transition hover:border-cyan-400 hover:bg-cyan-500/10"
           >
@@ -49,21 +49,21 @@ export default function Footer() {
           </a>
 
           <a
-            href="mailto:yourmail@gmail.com"
+            href="mailto:dominicmelva710@gmail.com"
             className="rounded-full border border-white/10 p-3 transition hover:border-cyan-400 hover:bg-cyan-500/10"
           >
             <Mail size={18} />
           </a>
 
           <a
-            href="tel:+971XXXXXXXXX"
+            href="tel:+971502184190"
             className="rounded-full border border-white/10 p-3 transition hover:border-cyan-400 hover:bg-cyan-500/10"
           >
             <Phone size={18} />
           </a>
 
           <a
-            href="https://github.com/YOURUSERNAME"
+            href="https://github.com/Melva90"
             target="_blank"
             className="rounded-full border border-white/10 p-3 transition hover:border-cyan-400 hover:bg-cyan-500/10"
           >

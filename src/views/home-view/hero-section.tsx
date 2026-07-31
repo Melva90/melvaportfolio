@@ -106,7 +106,7 @@ export default function HeroSection() {
               <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-emerald-400 opacity-75" />
               <span className="relative inline-flex h-2.5 w-2.5 rounded-full bg-emerald-400" />
             </span>
-            <span>Available for Frontend Roles · Dubai</span>
+            <span>Available for Frontend & Full-Stack Development Roles · Dubai</span>
           </div>
 
           <h1 className="mt-7 text-4xl font-black leading-tight sm:text-5xl md:text-6xl lg:text-7xl">

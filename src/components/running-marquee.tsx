@@ -31,7 +31,7 @@ const skills = [
   { name: "Shadcn UI", icon: SiShadcnui, color: "#FFFFFF" },
   { name: "HTML5", icon: SiHtml5, color: "#E34F26" },
   { name: "CSS3", icon: SiCss, color: "#1572B6" },
-  { name: "SCSS", icon: SiSass, color: "#CC6699" },
+  { name: "Rest API", icon: SiSass, color: "#CC6699" },
   { name: "Git", icon: SiGit, color: "#F05032" },
   { name: "GitHub", icon: SiGithub, color: "#FFFFFF" },
   { name: "Node.js", icon: SiNodedotjs, color: "#339933" },
